@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="cards.svg"
-   inkscape:export-filename="C:\Users\Charlie\Desktop\drawing.png"
+   inkscape:export-filename="C:\Users\Charlie\Desktop\drawing3.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -137,8 +137,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="154.48643"
-     inkscape:cy="396.42524"
+     inkscape:cx="74.886382"
+     inkscape:cy="413.33623"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -180,12 +180,6 @@
        position="491.99999,0"
        orientation="1,0"
        id="guide4356"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="256,0"
-       orientation="1,0"
-       id="guide4383"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
@@ -492,7 +486,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer7"
-     inkscape:label="Service">
+     inkscape:label="Service"
+     style="display:inline">
     <g
        inkscape:groupmode="layer"
        id="layer11"
@@ -567,7 +562,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer12"
-     inkscape:label="Type">
+     inkscape:label="Type"
+     style="display:inline">
     <g
        inkscape:groupmode="layer"
        id="layer13"
@@ -610,17 +606,32 @@
   <g
      inkscape:groupmode="layer"
      id="layer15"
-     inkscape:label="Name">
+     inkscape:label="Name"
+     style="display:inline">
+    <g
+       id="g4550"
+       style="display:none"
+       inkscape:label="Name_SF_P_4"
+       inkscape:groupmode="layer">
+      <flowRoot
+         transform="translate(10.042969,1.184554)"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="flowRoot4552"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4554"><rect
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             y="32.284061"
+             x="45.456863"
+             height="59.598999"
+             width="417.19299"
+             id="rect4556" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="flowPara4558">B-2 Spirit</flowPara></flowRoot>    </g>
     <g
        inkscape:groupmode="layer"
-       id="layer17"
-       inkscape:label="Name_AF_M_2"
-       style="display:inline" />
-    <g
-       inkscape:groupmode="layer"
-       id="layer16"
-       inkscape:label="Name_AF_M_1"
-       style="display:inline">
+       inkscape:label="Name_SF_P_3"
+       style="display:none"
+       id="g97">
       <flowRoot
          xml:space="preserve"
          id="flowRoot4140"
@@ -635,6 +646,842 @@
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
            id="flowPara4146"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">B-2 Spirit</flowPara></flowRoot>    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Name_SF_P_2"
+       style="display:none"
+       id="g103">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot105"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="translate(10.042969,1.184554)"><flowRegion
+           id="flowRegion107"><rect
+             id="rect109"
+             width="417.19299"
+             height="59.598999"
+             x="45.456863"
+             y="32.284061"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+           id="flowPara111"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">B-2 Spirit</flowPara></flowRoot>    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Name_SF_P_1"
+       style="display:none"
+       id="g113">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot115"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="translate(10.042969,1.184554)"><flowRegion
+           id="flowRegion117"><rect
+             id="rect119"
+             width="417.19299"
+             height="59.598999"
+             x="45.456863"
+             y="32.284061"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+           id="flowPara121"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">B-2 Spirit</flowPara></flowRoot>    </g>
+    <g
+       id="g4540"
+       style="display:none"
+       inkscape:label="Name_SF_M_4"
+       inkscape:groupmode="layer">
+      <flowRoot
+         transform="translate(10.042969,1.184554)"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="flowRoot4542"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4544"><rect
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             y="32.284061"
+             x="45.456863"
+             height="59.598999"
+             width="417.19299"
+             id="rect4546" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="flowPara4548">B-2 Spirit</flowPara></flowRoot>    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Name_SF_M_3"
+       style="display:none"
+       id="g123">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot125"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="translate(10.042969,1.184554)"><flowRegion
+           id="flowRegion127"><rect
+             id="rect129"
+             width="417.19299"
+             height="59.598999"
+             x="45.456863"
+             y="32.284061"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+           id="flowPara131"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">B-2 Spirit</flowPara></flowRoot>    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Name_SF_M_2"
+       style="display:none"
+       id="g133">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot135"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="translate(10.042969,1.184554)"><flowRegion
+           id="flowRegion137"><rect
+             id="rect139"
+             width="417.19299"
+             height="59.598999"
+             x="45.456863"
+             y="32.284061"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+           id="flowPara141"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">B-2 Spirit</flowPara></flowRoot>    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Name_SF_M_1"
+       style="display:none"
+       id="g143">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot145"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="translate(10.042969,1.184554)"><flowRegion
+           id="flowRegion147"><rect
+             id="rect149"
+             width="417.19299"
+             height="59.598999"
+             x="45.456863"
+             y="32.284061"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+           id="flowPara151"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">B-2 Spirit</flowPara></flowRoot>    </g>
+    <g
+       id="g4530"
+       style="display:none"
+       inkscape:label="Name_N_P_4"
+       inkscape:groupmode="layer">
+      <flowRoot
+         transform="translate(10.042969,1.184554)"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="flowRoot4532"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4534"><rect
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             y="32.284061"
+             x="45.456863"
+             height="59.598999"
+             width="417.19299"
+             id="rect4536" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="flowPara4538">B-2 Spirit</flowPara></flowRoot>    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Name_N_P_3"
+       style="display:none"
+       id="g153">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot155"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="translate(10.042969,1.184554)"><flowRegion
+           id="flowRegion157"><rect
+             id="rect159"
+             width="417.19299"
+             height="59.598999"
+             x="45.456863"
+             y="32.284061"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+           id="flowPara161"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">B-2 Spirit</flowPara></flowRoot>    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Name_N_P_2"
+       style="display:none"
+       id="g163">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot165"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="translate(10.042969,1.184554)"><flowRegion
+           id="flowRegion167"><rect
+             id="rect169"
+             width="417.19299"
+             height="59.598999"
+             x="45.456863"
+             y="32.284061"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+           id="flowPara171"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">B-2 Spirit</flowPara></flowRoot>    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Name_N_P_1"
+       style="display:none"
+       id="g173">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot175"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="translate(10.042969,1.184554)"><flowRegion
+           id="flowRegion177"><rect
+             id="rect179"
+             width="417.19299"
+             height="59.598999"
+             x="45.456863"
+             y="32.284061"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+           id="flowPara181"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">B-2 Spirit</flowPara></flowRoot>    </g>
+    <g
+       id="g4520"
+       style="display:none"
+       inkscape:label="Name_N_M_4"
+       inkscape:groupmode="layer">
+      <flowRoot
+         transform="translate(10.042969,1.184554)"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="flowRoot4522"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4524"><rect
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             y="32.284061"
+             x="45.456863"
+             height="59.598999"
+             width="417.19299"
+             id="rect4526" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="flowPara4528">B-2 Spirit</flowPara></flowRoot>    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Name_N_M_3"
+       style="display:none"
+       id="g183">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot185"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="translate(10.042969,1.184554)"><flowRegion
+           id="flowRegion187"><rect
+             id="rect189"
+             width="417.19299"
+             height="59.598999"
+             x="45.456863"
+             y="32.284061"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+           id="flowPara191"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">B-2 Spirit</flowPara></flowRoot>    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Name_N_M_2"
+       style="display:none"
+       id="g193">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot195"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="translate(10.042969,1.184554)"><flowRegion
+           id="flowRegion197"><rect
+             id="rect199"
+             width="417.19299"
+             height="59.598999"
+             x="45.456863"
+             y="32.284061"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+           id="flowPara201"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">B-2 Spirit</flowPara></flowRoot>    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Name_N_M_1"
+       style="display:none"
+       id="g203">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot205"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="translate(10.042969,1.184554)"><flowRegion
+           id="flowRegion207"><rect
+             id="rect209"
+             width="417.19299"
+             height="59.598999"
+             x="45.456863"
+             y="32.284061"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+           id="flowPara211"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">B-2 Spirit</flowPara></flowRoot>    </g>
+    <g
+       id="g4510"
+       style="display:none"
+       inkscape:label="Name_AF_P_4"
+       inkscape:groupmode="layer">
+      <flowRoot
+         transform="translate(10.042969,1.184554)"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="flowRoot4512"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4514"><rect
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             y="32.284061"
+             x="45.456863"
+             height="59.598999"
+             width="417.19299"
+             id="rect4516" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="flowPara4518">B-2 Spirit</flowPara></flowRoot>    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Name_AF_P_3"
+       style="display:none"
+       id="g213">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot215"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="translate(10.042969,1.184554)"><flowRegion
+           id="flowRegion217"><rect
+             id="rect219"
+             width="417.19299"
+             height="59.598999"
+             x="45.456863"
+             y="32.284061"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+           id="flowPara221"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">B-2 Spirit</flowPara></flowRoot>    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Name_AF_P_2"
+       style="display:none"
+       id="g223">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot225"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="translate(10.042969,1.184554)"><flowRegion
+           id="flowRegion227"><rect
+             id="rect229"
+             width="417.19299"
+             height="59.598999"
+             x="45.456863"
+             y="32.284061"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+           id="flowPara231"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">B-2 Spirit</flowPara></flowRoot>    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Name_AF_P_1"
+       style="display:none"
+       id="g233">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot235"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="translate(10.042969,1.184554)"><flowRegion
+           id="flowRegion237"><rect
+             id="rect239"
+             width="417.19299"
+             height="59.598999"
+             x="45.456863"
+             y="32.284061"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+           id="flowPara241"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">B-2 Spirit</flowPara></flowRoot>    </g>
+    <g
+       id="g4500"
+       style="display:none"
+       inkscape:label="Name_AF_M_4"
+       inkscape:groupmode="layer">
+      <flowRoot
+         transform="translate(10.042969,1.184554)"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="flowRoot4502"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4504"><rect
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             y="32.284061"
+             x="45.456863"
+             height="59.598999"
+             width="417.19299"
+             id="rect4506" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="flowPara4508">B-2 Spirit</flowPara></flowRoot>    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Name_AF_M_3"
+       style="display:none"
+       id="g243">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot245"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="translate(10.042969,1.184554)"><flowRegion
+           id="flowRegion247"><rect
+             id="rect249"
+             width="417.19299"
+             height="59.598999"
+             x="45.456863"
+             y="32.284061"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+           id="flowPara251"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">B-2 Spirit</flowPara></flowRoot>    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Name_AF_M_2"
+       style="display:none"
+       id="g253">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot255"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="translate(10.042969,1.184554)"><flowRegion
+           id="flowRegion257"><rect
+             id="rect259"
+             width="417.19299"
+             height="59.598999"
+             x="45.456863"
+             y="32.284061"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+           id="flowPara261"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">B-2 Spirit</flowPara></flowRoot>    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer16"
+       inkscape:label="Name_AF_M_1"
+       style="display:none">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot264"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="translate(10.042969,1.184554)"><flowRegion
+           id="flowRegion266"><rect
+             id="rect268"
+             width="417.19299"
+             height="59.598999"
+             x="45.456863"
+             y="32.284061"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+           id="flowPara270"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">B-2 Spirit</flowPara></flowRoot>    </g>
+    <g
+       id="g4490"
+       style="display:none"
+       inkscape:label="Name_A_P_4"
+       inkscape:groupmode="layer">
+      <flowRoot
+         transform="translate(10.042969,1.184554)"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="flowRoot4492"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4494"><rect
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             y="32.284061"
+             x="45.456863"
+             height="59.598999"
+             width="417.19299"
+             id="rect4496" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="flowPara4498">B-2 Spirit</flowPara></flowRoot>    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Name_A_P_3"
+       style="display:none"
+       id="g272">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot274"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="translate(10.042969,1.184554)"><flowRegion
+           id="flowRegion276"><rect
+             id="rect278"
+             width="417.19299"
+             height="59.598999"
+             x="45.456863"
+             y="32.284061"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+           id="flowPara280"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">B-2 Spirit</flowPara></flowRoot>    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Name_A_P_2"
+       style="display:none"
+       id="g282">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot284"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="translate(10.042969,1.184554)"><flowRegion
+           id="flowRegion286"><rect
+             id="rect288"
+             width="417.19299"
+             height="59.598999"
+             x="45.456863"
+             y="32.284061"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+           id="flowPara290"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">B-2 Spirit</flowPara></flowRoot>    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Name_A_P_1"
+       style="display:none"
+       id="g292">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot294"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="translate(10.042969,1.184554)"><flowRegion
+           id="flowRegion296"><rect
+             id="rect298"
+             width="417.19299"
+             height="59.598999"
+             x="45.456863"
+             y="32.284061"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+           id="flowPara300"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">B-2 Spirit</flowPara></flowRoot>    </g>
+    <g
+       id="g4480"
+       style="display:none"
+       inkscape:label="Name_A_M_4"
+       inkscape:groupmode="layer">
+      <flowRoot
+         transform="translate(10.042969,1.184554)"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="flowRoot4482"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4484"><rect
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             y="32.284061"
+             x="45.456863"
+             height="59.598999"
+             width="417.19299"
+             id="rect4486" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="flowPara4488">B-2 Spirit</flowPara></flowRoot>    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Name_A_M_3"
+       style="display:none"
+       id="g302">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot304"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="translate(10.042969,11.525052)"><flowRegion
+           id="flowRegion306"><rect
+             id="rect308"
+             width="417.19299"
+             height="59.598999"
+             x="45.456863"
+             y="32.284061"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+           id="flowPara310"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">B-52 Stratofortress</flowPara></flowRoot>    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Name_A_M_2"
+       style="display:none"
+       id="g312">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot314"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="translate(10.042969,1.184554)"><flowRegion
+           id="flowRegion316"><rect
+             id="rect318"
+             width="417.19299"
+             height="59.598999"
+             x="45.456863"
+             y="32.284061"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+           id="flowPara320"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">F-22 Raptor</flowPara></flowRoot>    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Name_A_M_1"
+       style="display:inline"
+       id="g322">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot324"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="translate(10.042969,6.3548031)"><flowRegion
+           id="flowRegion326"><rect
+             id="rect328"
+             width="417.19299"
+             height="59.598999"
+             x="45.456863"
+             y="32.284061"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+           id="flowPara330"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">F-35 Lightning II</flowPara></flowRoot>    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer17"
+     inkscape:label="Image">
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Image_SF_P_4"
+       id="g343" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Image_SF_P_3"
+       id="g341" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Image_SF_P_2"
+       id="g339" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Image_SF_P_1"
+       id="g337" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Image_SF_M_4"
+       id="g335" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Image_SF_M_3"
+       id="g333" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Image_SF_M_2"
+       id="g331" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Image_SF_M_1"
+       id="g329" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Image_N_P_4"
+       id="g327" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Image_N_P_3"
+       id="g325" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Image_N_P_2"
+       id="g323" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Image_N_P_1"
+       id="g321" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Image_N_M_4"
+       id="g319" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Image_N_M_3"
+       id="g317" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Image_N_M_2"
+       id="g315" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Image_N_M_1"
+       id="g313" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Image_AF_P_4"
+       id="g311" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Image_AF_P_3"
+       id="g309" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Image_AF_P_2"
+       id="g307" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Image_AF_P_1"
+       id="g305" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Image_AF_M_4"
+       id="g303" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Image_AF_M_3"
+       id="g301" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Image_AF_M_2"
+       id="g299" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Image_AF_M_1"
+       id="g297" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Image_A_P_4"
+       id="g295" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Image_A_P_3"
+       id="g293" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Image_A_P_2"
+       id="g291" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Image_A_P_1"
+       id="g289" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Image_A_M_4"
+       id="g287" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Image_A_M_3"
+       id="g285" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Image_A_M_2"
+       id="g283" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Image_A_M_1"
+       id="g280" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer18"
+     inkscape:label="Info">
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Info_SF_P_4"
+       id="g408" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Info_SF_P_3"
+       id="g406" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Info_SF_P_2"
+       id="g404" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Info_SF_P_1"
+       id="g402" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Info_SF_M_4"
+       id="g400" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Info_SF_M_3"
+       id="g398" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Info_SF_M_2"
+       id="g396" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Info_SF_M_1"
+       id="g394" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Info_N_P_4"
+       id="g392" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Info_N_P_3"
+       id="g390" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Info_N_P_2"
+       id="g388" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Info_N_P_1"
+       id="g386" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Info_N_M_4"
+       id="g384" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Info_N_M_3"
+       id="g382" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Info_N_M_2"
+       id="g380" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Info_N_M_1"
+       id="g378" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Info_AF_P_4"
+       id="g376" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Info_AF_P_3"
+       id="g374" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Info_AF_P_2"
+       id="g372" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Info_AF_P_1"
+       id="g370" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Info_AF_M_4"
+       id="g368" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Info_AF_M_3"
+       id="g366" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Info_AF_M_2"
+       id="g364" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Info_AF_M_1"
+       id="g362" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Info_A_P_4"
+       id="g360" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Info_A_P_3"
+       id="g358" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Info_A_P_2"
+       id="g356" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Info_A_P_1"
+       id="g354" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Info_A_M_4"
+       id="g352" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Info_A_M_3"
+       id="g350" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Info_A_M_2"
+       id="g348" />
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Info_A_M_1"
+       id="g346" />
   </g>
   <g
      inkscape:label="MISC"
@@ -717,15 +1564,37 @@
            height="57.5"
            x="50"
            y="31" /></flowRegion><flowPara
-         id="flowPara4222"></flowPara></flowRoot>    <flowRoot
+         id="flowPara4222" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4387"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion4389"><rect
            id="rect4391"
            width="176"
            height="106"
            x="-338"
            y="294" /></flowRegion><flowPara
-         id="flowPara4393"></flowPara></flowRoot>  </g>
+         id="flowPara4393" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4540"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion4542"><rect
+           id="rect4544"
+           width="352.5"
+           height="47.914223"
+           x="104"
+           y="696.58575" /></flowRegion><flowPara
+         id="flowPara4546"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="353.99997"
+       y="975.36218"
+       id="text4548"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4550"
+         x="353.99997"
+         y="975.36218"
+         style="font-size:10px">Image © US DOD</tspan></text>
+  </g>
 </svg>
