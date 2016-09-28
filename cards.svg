@@ -136,11 +136,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="399.97562"
-     inkscape:cy="431.45276"
+     inkscape:zoom="1"
+     inkscape:cx="35.732678"
+     inkscape:cy="388.4753"
      inkscape:document-units="px"
-     inkscape:current-layer="g343"
+     inkscape:current-layer="g4194"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
@@ -320,7 +320,7 @@
          transform="translate(0,-252.36216)" />
     </g>
     <g
-       style="display:none"
+       style="display:inline"
        inkscape:label="Background_N"
        id="g4194"
        inkscape:groupmode="layer">
@@ -332,6 +332,16 @@
          id="rect4196"
          style="display:inline;opacity:1;fill:url(#linearGradient4214);fill-opacity:1;stroke:none;stroke-width:2.01337433;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          transform="translate(0,-252.36216)" />
+      <image
+         sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\n_bg.png"
+         xlink:href="n_bg.png"
+         width="472"
+         height="760"
+         preserveAspectRatio="none"
+         id="image3730"
+         x="20"
+         y="20"
+         style="display:inline" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -346,12 +356,22 @@
          height="760"
          x="20"
          y="272.36215" />
+      <image
+         sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\af_bg.png"
+         xlink:href="af_bg.png"
+         style="display:inline"
+         y="20"
+         x="20"
+         id="image4108"
+         preserveAspectRatio="none"
+         height="760"
+         width="472" />
     </g>
     <g
        inkscape:groupmode="layer"
        id="g4224"
        inkscape:label="Background_A"
-       style="display:inline">
+       style="display:none">
       <rect
          transform="translate(0,-252.36216)"
          style="display:inline;opacity:1;fill:url(#linearGradient4264);fill-opacity:1;stroke:none;stroke-width:2.01337433;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -360,6 +380,16 @@
          height="760"
          x="20"
          y="272.36215" />
+      <image
+         sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\a_bg.png"
+         xlink:href="a_bg.png"
+         style="display:inline"
+         y="20"
+         x="20"
+         id="image4096"
+         preserveAspectRatio="none"
+         height="760"
+         width="472" />
     </g>
   </g>
   <g
@@ -877,7 +907,7 @@
     <g
        inkscape:groupmode="layer"
        inkscape:label="Name_N_M_2"
-       style="display:none"
+       style="display:inline"
        id="g193">
       <flowRoot
          xml:space="preserve"
@@ -1200,7 +1230,7 @@
     <g
        inkscape:groupmode="layer"
        inkscape:label="Name_A_M_1"
-       style="display:inline"
+       style="display:none"
        id="g322">
       <flowRoot
          transform="translate(10.042969,1.18455)"
@@ -1229,12 +1259,12 @@
       <image
          sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\images\sf_p_4.png"
          xlink:href="images\sf_p_4.png"
-         width="401"
-         height="389"
-         preserveAspectRatio="none"
-         id="image4074"
+         y="105.5"
          x="55.5"
-         y="105.5" />
+         id="image4074"
+         preserveAspectRatio="none"
+         height="389"
+         width="401" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1244,12 +1274,12 @@
       <image
          sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\images\sf_p_3.png"
          xlink:href="images\sf_p_3.png"
-         width="401"
-         height="389"
-         preserveAspectRatio="none"
-         id="image4052"
+         y="105.5"
          x="55.5"
-         y="105.5" />
+         id="image4052"
+         preserveAspectRatio="none"
+         height="389"
+         width="401" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1259,12 +1289,12 @@
       <image
          sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\images\sf_p_2.png"
          xlink:href="images\sf_p_2.png"
-         width="401"
-         height="389"
-         preserveAspectRatio="none"
-         id="image4041"
+         y="105.5"
          x="55.5"
-         y="105.5" />
+         id="image4041"
+         preserveAspectRatio="none"
+         height="389"
+         width="401" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1274,12 +1304,12 @@
       <image
          sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\images\sf_p_1.png"
          xlink:href="images\sf_p_1.png"
-         width="401"
-         height="389"
-         preserveAspectRatio="none"
-         id="image4030"
+         y="105.5"
          x="55.5"
-         y="105.5" />
+         id="image4030"
+         preserveAspectRatio="none"
+         height="389"
+         width="401" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1289,12 +1319,12 @@
       <image
          sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\images\sf_m_4.png"
          xlink:href="images\sf_m_4.png"
-         width="401"
-         height="389"
-         preserveAspectRatio="none"
-         id="image4063"
+         y="105.5"
          x="55.5"
-         y="105.5" />
+         id="image4063"
+         preserveAspectRatio="none"
+         height="389"
+         width="401" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1304,12 +1334,12 @@
       <image
          sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\images\sf_m_3.png"
          xlink:href="images\sf_m_3.png"
-         width="401"
-         height="389"
-         preserveAspectRatio="none"
-         id="image4019"
+         y="105.5"
          x="55.5"
-         y="105.5" />
+         id="image4019"
+         preserveAspectRatio="none"
+         height="389"
+         width="401" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1319,12 +1349,12 @@
       <image
          sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\images\sf_m_2.png"
          xlink:href="images\sf_m_2.png"
-         width="401"
-         height="389"
-         preserveAspectRatio="none"
-         id="image4008"
+         y="105.5"
          x="55.5"
-         y="105.5" />
+         id="image4008"
+         preserveAspectRatio="none"
+         height="389"
+         width="401" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1334,12 +1364,12 @@
       <image
          sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\images\sf_m_1.png"
          xlink:href="images\sf_m_1.png"
-         width="401"
-         height="389"
-         preserveAspectRatio="none"
-         id="image3997"
+         y="105.5"
          x="55.5"
-         y="105.5" />
+         id="image3997"
+         preserveAspectRatio="none"
+         height="389"
+         width="401" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1349,12 +1379,12 @@
       <image
          sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\images\n_p_4.png"
          xlink:href="images\n_p_4.png"
-         width="401"
-         height="389"
-         preserveAspectRatio="none"
-         id="image3953"
+         y="105.5"
          x="55.5"
-         y="105.5" />
+         id="image3953"
+         preserveAspectRatio="none"
+         height="389"
+         width="401" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1364,12 +1394,12 @@
       <image
          sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\images\n_p_3.png"
          xlink:href="images\n_p_3.png"
-         width="401"
-         height="389"
-         preserveAspectRatio="none"
-         id="image3942"
+         y="105.5"
          x="55.5"
-         y="105.5" />
+         id="image3942"
+         preserveAspectRatio="none"
+         height="389"
+         width="401" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1379,12 +1409,12 @@
       <image
          sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\images\n_p_2.png"
          xlink:href="images\n_p_2.png"
-         width="401"
-         height="389"
-         preserveAspectRatio="none"
-         id="image3843"
+         y="105.5"
          x="55.5"
-         y="105.5" />
+         id="image3843"
+         preserveAspectRatio="none"
+         height="389"
+         width="401" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1394,12 +1424,12 @@
       <image
          sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\images\n_p_1.png"
          xlink:href="images\n_p_1.png"
-         width="401"
-         height="389"
-         preserveAspectRatio="none"
-         id="image3832"
+         y="105.5"
          x="55.5"
-         y="105.5" />
+         id="image3832"
+         preserveAspectRatio="none"
+         height="389"
+         width="401" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1409,12 +1439,12 @@
       <image
          sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\images\n_m_4.png"
          xlink:href="images\n_m_4.png"
-         width="401"
-         height="389"
-         preserveAspectRatio="none"
-         id="image3975"
+         y="105.5"
          x="55.5"
-         y="105.5" />
+         id="image3975"
+         preserveAspectRatio="none"
+         height="389"
+         width="401" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1424,27 +1454,27 @@
       <image
          sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\images\n_m_3.png"
          xlink:href="images\n_m_3.png"
-         width="401"
-         height="389"
-         preserveAspectRatio="none"
-         id="image3733"
+         y="105.5"
          x="55.5"
-         y="105.5" />
+         id="image3733"
+         preserveAspectRatio="none"
+         height="389"
+         width="401" />
     </g>
     <g
        inkscape:groupmode="layer"
        inkscape:label="Image_N_M_2"
        id="g315"
-       style="display:none">
+       style="display:inline">
       <image
          sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\images\n_m_2.png"
          xlink:href="images\n_m_2.png"
-         width="401"
-         height="389"
-         preserveAspectRatio="none"
-         id="image3986"
+         y="105.5"
          x="55.5"
-         y="105.5" />
+         id="image3986"
+         preserveAspectRatio="none"
+         height="389"
+         width="401" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1454,12 +1484,12 @@
       <image
          sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\images\n_m_1.png"
          xlink:href="images\n_m_1.png"
-         width="401"
-         height="389"
-         preserveAspectRatio="none"
-         id="image3964"
+         y="105.5"
          x="55.5"
-         y="105.5" />
+         id="image3964"
+         preserveAspectRatio="none"
+         height="389"
+         width="401" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1469,12 +1499,12 @@
       <image
          sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\images\af_p_4.png"
          xlink:href="images\af_p_4.png"
-         width="401"
-         height="389"
-         preserveAspectRatio="none"
-         id="image3931"
+         y="105.5"
          x="55.5"
-         y="105.5" />
+         id="image3931"
+         preserveAspectRatio="none"
+         height="389"
+         width="401" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1484,12 +1514,12 @@
       <image
          sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\images\af_p_3.png"
          xlink:href="images\af_p_3.png"
-         width="401"
-         height="389"
-         preserveAspectRatio="none"
-         id="image3920"
+         y="105.5"
          x="55.5"
-         y="105.5" />
+         id="image3920"
+         preserveAspectRatio="none"
+         height="389"
+         width="401" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1499,12 +1529,12 @@
       <image
          sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\images\af_p_2.png"
          xlink:href="images\af_p_2.png"
-         width="401"
-         height="389"
-         preserveAspectRatio="none"
-         id="image3821"
+         y="105.5"
          x="55.5"
-         y="105.5" />
+         id="image3821"
+         preserveAspectRatio="none"
+         height="389"
+         width="401" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1514,12 +1544,12 @@
       <image
          sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\images\af_p_1.png"
          xlink:href="images\af_p_1.png"
-         width="401"
-         height="389"
-         preserveAspectRatio="none"
-         id="image3810"
+         y="105.5"
          x="55.5"
-         y="105.5" />
+         id="image3810"
+         preserveAspectRatio="none"
+         height="389"
+         width="401" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1529,12 +1559,12 @@
       <image
          sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\images\af_m_4.png"
          xlink:href="images\af_m_4.png"
-         width="401"
-         height="389"
-         preserveAspectRatio="none"
-         id="image3799"
+         y="105.5"
          x="55.5"
-         y="105.5" />
+         id="image3799"
+         preserveAspectRatio="none"
+         height="389"
+         width="401" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1544,12 +1574,12 @@
       <image
          sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\images\af_m_3.png"
          xlink:href="images\af_m_3.png"
-         width="401"
-         height="389"
-         preserveAspectRatio="none"
-         id="image3788"
+         y="105.5"
          x="55.5"
-         y="105.5" />
+         id="image3788"
+         preserveAspectRatio="none"
+         height="389"
+         width="401" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1559,12 +1589,12 @@
       <image
          sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\images\af_m_2.png"
          xlink:href="images\af_m_2.png"
-         width="401"
-         height="389"
-         preserveAspectRatio="none"
-         id="image3777"
+         y="105.5"
          x="55.5"
-         y="105.5" />
+         id="image3777"
+         preserveAspectRatio="none"
+         height="389"
+         width="401" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1574,12 +1604,12 @@
       <image
          sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\images\af_m_1.png"
          xlink:href="images\af_m_1.png"
-         width="401"
-         height="389"
-         preserveAspectRatio="none"
-         id="image3766"
+         y="105.5"
          x="55.5"
-         y="105.5" />
+         id="image3766"
+         preserveAspectRatio="none"
+         height="389"
+         width="401" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1589,12 +1619,12 @@
       <image
          sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\images\a_p_4.png"
          xlink:href="images\a_p_4.png"
-         width="401"
-         height="389"
-         preserveAspectRatio="none"
-         id="image3909"
+         y="105.5"
          x="55.5"
-         y="105.5" />
+         id="image3909"
+         preserveAspectRatio="none"
+         height="389"
+         width="401" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1604,12 +1634,12 @@
       <image
          sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\images\a_p_3.png"
          xlink:href="images\a_p_3.png"
-         width="401"
-         height="389"
-         preserveAspectRatio="none"
-         id="image3898"
+         y="105.5"
          x="55.5"
-         y="105.5" />
+         id="image3898"
+         preserveAspectRatio="none"
+         height="389"
+         width="401" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1619,12 +1649,12 @@
       <image
          sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\images\a_p_2.png"
          xlink:href="images\a_p_2.png"
-         width="401"
-         height="389"
-         preserveAspectRatio="none"
-         id="image3755"
+         y="105.5"
          x="55.5"
-         y="105.5" />
+         id="image3755"
+         preserveAspectRatio="none"
+         height="389"
+         width="401" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1634,12 +1664,12 @@
       <image
          sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\images\a_p_1.png"
          xlink:href="images\a_p_1.png"
-         width="401"
-         height="389"
-         preserveAspectRatio="none"
-         id="image3744"
+         y="105.5"
          x="55.5"
-         y="105.5" />
+         id="image3744"
+         preserveAspectRatio="none"
+         height="389"
+         width="401" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1649,12 +1679,12 @@
       <image
          sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\images\a_m_4.png"
          xlink:href="images\a_m_4.png"
-         width="401"
-         height="389"
-         preserveAspectRatio="none"
-         id="image3887"
+         y="105.5"
          x="55.5"
-         y="105.5" />
+         id="image3887"
+         preserveAspectRatio="none"
+         height="389"
+         width="401" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1664,12 +1694,12 @@
       <image
          sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\images\a_m_3.png"
          xlink:href="images\a_m_3.png"
-         width="401"
-         height="389"
-         preserveAspectRatio="none"
-         id="image3876"
+         y="105.5"
          x="55.5"
-         y="105.5" />
+         id="image3876"
+         preserveAspectRatio="none"
+         height="389"
+         width="401" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1679,27 +1709,27 @@
       <image
          sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\images\a_m_2.png"
          xlink:href="images\a_m_2.png"
-         width="401"
-         height="389"
-         preserveAspectRatio="none"
-         id="image3865"
+         y="105.5"
          x="55.5"
-         y="105.5" />
+         id="image3865"
+         preserveAspectRatio="none"
+         height="389"
+         width="401" />
     </g>
     <g
        inkscape:groupmode="layer"
        inkscape:label="Image_A_M_1"
        id="g280"
-       style="display:inline">
+       style="display:none">
       <image
          sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\images\a_m_1.png"
          xlink:href="images\a_m_1.png"
-         width="401"
-         height="389"
-         preserveAspectRatio="none"
-         id="image3854"
+         y="105.5"
          x="55.5"
-         y="105.5" />
+         id="image3854"
+         preserveAspectRatio="none"
+         height="389"
+         width="401" />
     </g>
   </g>
   <g
@@ -1888,12 +1918,12 @@
          id="flowPara4344" /></flowRoot>    <image
        sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\..\..\Old design\_B2.png"
        xlink:href="..\..\Old design\_B2.png"
-       y="357.86215"
-       x="55.5"
-       id="image4374"
-       preserveAspectRatio="none"
+       width="401"
        height="389"
-       width="401" />
+       preserveAspectRatio="none"
+       id="image4374"
+       x="55.5"
+       y="357.86215" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
