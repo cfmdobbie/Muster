@@ -24,54 +24,6 @@
      id="defs4632">
     <linearGradient
        inkscape:collect="always"
-       id="BG_A">
-      <stop
-         style="stop-color:#647828;stop-opacity:1"
-         offset="0"
-         id="stop4260" />
-      <stop
-         style="stop-color:#647828;stop-opacity:0"
-         offset="1"
-         id="stop4262" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="BG_SF">
-      <stop
-         style="stop-color:#323232;stop-opacity:1"
-         offset="0"
-         id="stop4252" />
-      <stop
-         style="stop-color:#323232;stop-opacity:0"
-         offset="1"
-         id="stop4254" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="BG_N-4">
-      <stop
-         style="stop-color:#004071;stop-opacity:1"
-         offset="0"
-         id="stop4210" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop4212" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="BG_AF-3">
-      <stop
-         style="stop-color:#62aef7;stop-opacity:1;"
-         offset="0"
-         id="stop4162" />
-      <stop
-         style="stop-color:#62aef7;stop-opacity:0;"
-         offset="1"
-         id="stop4164" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
        id="Card_BG">
       <stop
          style="stop-color:#fafaf0;stop-opacity:1"
@@ -91,43 +43,6 @@
        x2="329.16263"
        y2="774.59064"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#BG_AF-3"
-       id="linearGradient4198"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0042839,0,0,1.0026562,-1.0966773,-1.7328293)"
-       x1="256"
-       y1="353.15692"
-       x2="256"
-       y2="273.36887" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#BG_N-4"
-       id="linearGradient4214"
-       x1="256"
-       y1="352.36215"
-       x2="256"
-       y2="272.36215"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#BG_SF"
-       id="linearGradient4256"
-       x1="256"
-       y1="352.36215"
-       x2="256"
-       y2="272.36215"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#BG_A"
-       id="linearGradient4264"
-       x1="256"
-       y1="352.36215"
-       x2="256"
-       y2="272.36215"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -136,18 +51,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="35.732678"
-     inkscape:cy="388.4753"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="291.00996"
+     inkscape:cy="389.02575"
      inkscape:document-units="px"
-     inkscape:current-layer="g4194"
+     inkscape:current-layer="svg4630"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:window-width="958"
+     inkscape:window-height="1008"
+     inkscape:window-x="953"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-page="true"
@@ -272,6 +187,12 @@
        id="guide4369"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="256,0"
+       orientation="1,0"
+       id="guide3669"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
   <metadata
      id="metadata4635">
@@ -310,59 +231,42 @@
        inkscape:label="Background_SF"
        id="g4244"
        inkscape:groupmode="layer">
-      <rect
-         y="272.36215"
-         x="20"
-         height="760"
-         width="472"
-         id="rect4246"
-         style="display:inline;opacity:1;fill:url(#linearGradient4256);fill-opacity:1;stroke:none;stroke-width:2.01337433;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         transform="translate(0,-252.36216)" />
-    </g>
-    <g
-       style="display:inline"
-       inkscape:label="Background_N"
-       id="g4194"
-       inkscape:groupmode="layer">
-      <rect
-         y="272.36215"
-         x="20"
-         height="760"
-         width="472"
-         id="rect4196"
-         style="display:inline;opacity:1;fill:url(#linearGradient4214);fill-opacity:1;stroke:none;stroke-width:2.01337433;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         transform="translate(0,-252.36216)" />
       <image
-         sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\n_bg.png"
-         xlink:href="n_bg.png"
+         sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\backgrounds\sf_bg.png"
+         xlink:href="backgrounds\sf_bg.png"
          width="472"
          height="760"
          preserveAspectRatio="none"
-         id="image3730"
+         id="image3700"
          x="20"
+         y="20" />
+    </g>
+    <g
+       style="display:none"
+       inkscape:label="Background_N"
+       id="g4194"
+       inkscape:groupmode="layer">
+      <image
+         sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\backgrounds\n_bg.png"
+         xlink:href="backgrounds\n_bg.png"
          y="20"
-         style="display:inline" />
+         x="20"
+         id="image3753"
+         preserveAspectRatio="none"
+         height="760"
+         width="472" />
     </g>
     <g
        inkscape:groupmode="layer"
        id="layer3"
        inkscape:label="Background_AF"
        style="display:none">
-      <rect
-         transform="translate(0,-252.36216)"
-         style="display:inline;opacity:1;fill:url(#linearGradient4198);fill-opacity:1;stroke:none;stroke-width:2.01337433;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect4158"
-         width="472"
-         height="760"
-         x="20"
-         y="272.36215" />
       <image
-         sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\af_bg.png"
-         xlink:href="af_bg.png"
-         style="display:inline"
+         sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\backgrounds\af_bg.png"
+         xlink:href="backgrounds\af_bg.png"
          y="20"
          x="20"
-         id="image4108"
+         id="image3731"
          preserveAspectRatio="none"
          height="760"
          width="472" />
@@ -371,22 +275,13 @@
        inkscape:groupmode="layer"
        id="g4224"
        inkscape:label="Background_A"
-       style="display:none">
-      <rect
-         transform="translate(0,-252.36216)"
-         style="display:inline;opacity:1;fill:url(#linearGradient4264);fill-opacity:1;stroke:none;stroke-width:2.01337433;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect4226"
-         width="472"
-         height="760"
-         x="20"
-         y="272.36215" />
+       style="display:inline">
       <image
-         sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\a_bg.png"
-         xlink:href="a_bg.png"
-         style="display:inline"
+         sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\backgrounds\a_bg.png"
+         xlink:href="backgrounds\a_bg.png"
          y="20"
          x="20"
-         id="image4096"
+         id="image3720"
          preserveAspectRatio="none"
          height="760"
          width="472" />
@@ -907,7 +802,7 @@
     <g
        inkscape:groupmode="layer"
        inkscape:label="Name_N_M_2"
-       style="display:inline"
+       style="display:none"
        id="g193">
       <flowRoot
          xml:space="preserve"
@@ -1230,7 +1125,7 @@
     <g
        inkscape:groupmode="layer"
        inkscape:label="Name_A_M_1"
-       style="display:none"
+       style="display:inline"
        id="g322">
       <flowRoot
          transform="translate(10.042969,1.18455)"
@@ -1250,7 +1145,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer17"
-     inkscape:label="Image">
+     inkscape:label="Image"
+     style="display:inline">
     <g
        inkscape:groupmode="layer"
        inkscape:label="Image_SF_P_4"
@@ -1465,7 +1361,7 @@
        inkscape:groupmode="layer"
        inkscape:label="Image_N_M_2"
        id="g315"
-       style="display:inline">
+       style="display:none">
       <image
          sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\images\n_m_2.png"
          xlink:href="images\n_m_2.png"
@@ -1720,7 +1616,7 @@
        inkscape:groupmode="layer"
        inkscape:label="Image_A_M_1"
        id="g280"
-       style="display:none">
+       style="display:inline">
       <image
          sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\images\a_m_1.png"
          xlink:href="images\a_m_1.png"
@@ -1736,280 +1632,724 @@
      inkscape:groupmode="layer"
      id="layer18"
      inkscape:label="Info"
-     style="display:none">
+     style="display:inline">
     <g
        inkscape:groupmode="layer"
        inkscape:label="Info_SF_P_4"
        id="g408"
-       style="display:none" />
+       style="display:none">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4068"
+         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(15.492193,27.930718)"><flowRegion
+           id="flowRegion4070"><rect
+             id="rect4072"
+             width="370.01471"
+             height="118.64465"
+             x="55.5"
+             y="590.5" /></flowRegion><flowPara
+           id="flowPara4074"
+           style="font-size:17.5px;text-align:center;text-anchor:middle">US Army Major General Austin S. Miller is the commander of the US Joint Special Operations Command, which directs all US special-forces operations worldwide.</flowPara></flowRoot>    </g>
     <g
        inkscape:groupmode="layer"
        inkscape:label="Info_SF_P_3"
        id="g406"
-       style="display:none" />
+       style="display:none">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4060"
+         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(31.819341,10.960155)"><flowRegion
+           id="flowRegion4062"><rect
+             id="rect4064"
+             width="337.36038"
+             height="136.32233"
+             x="55.5"
+             y="590.5" /></flowRegion><flowPara
+           id="flowPara4066"
+           style="font-size:20px;text-align:center;text-anchor:middle">Special-operations unit used for hostage rescue and counterterrorism, as well as direct action and reconnaissance against high-value targets.</flowPara></flowRoot>    </g>
     <g
        inkscape:groupmode="layer"
        inkscape:label="Info_SF_P_2"
        id="g404"
-       style="display:none" />
+       style="display:none">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4031"
+         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(-0.499995,6.0104076)"><flowRegion
+           id="flowRegion4033"><rect
+             id="rect4035"
+             width="341"
+             height="154"
+             x="86"
+             y="590.5" /></flowRegion><flowPara
+           id="flowPara4037"
+           style="font-size:17.5px;text-align:center;text-anchor:middle"><flowSpan
+   style="font-weight:bold;font-size:17.5px;text-align:center;text-anchor:middle"
+   id="flowSpan4047">SE</flowSpan>a, <flowSpan
+   style="font-weight:bold;font-size:17.5px;text-align:center;text-anchor:middle"
+   id="flowSpan4049">A</flowSpan>ir and <flowSpan
+   style="font-weight:bold;font-size:17.5px;text-align:center;text-anchor:middle"
+   id="flowSpan4051">L</flowSpan>and, the Navy's primary special operations force and a component of the Naval Special Warfare Command.</flowPara><flowPara
+           style="font-size:17.5px;text-align:center;text-anchor:middle"
+           id="flowPara4053" /><flowPara
+           style="font-style:italic;font-size:17.5px;text-align:center;text-anchor:middle"
+           id="flowPara4055">The Only Easy Day Was Yesterday</flowPara></flowRoot>    </g>
     <g
        inkscape:groupmode="layer"
        inkscape:label="Info_SF_P_1"
        id="g402"
-       style="display:none" />
+       style="display:none">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4019"
+         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(11.250005,3)"><flowRegion
+           id="flowRegion4021"><rect
+             id="rect4023"
+             width="378.5"
+             height="154"
+             x="55.5"
+             y="590.5" /></flowRegion><flowPara
+           id="flowPara4025"
+           style="font-size:16.25px;text-align:center;text-anchor:middle">Light infantry special operations unit of the Army, capable of direct action, airfield seizure, airborne and air assaults, special reconnaissance, personnel recovery, and high-value target raids.</flowPara><flowPara
+           style="font-size:16.25px;text-align:center;text-anchor:middle"
+           id="flowPara4029" /><flowPara
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle"
+           id="flowPara4027">Rangers Lead The Way</flowPara></flowRoot>    </g>
     <g
        inkscape:groupmode="layer"
        inkscape:label="Info_SF_M_4"
        id="g400"
-       style="display:none" />
+       style="display:none">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4011"
+         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(18.058599,10)"><flowRegion
+           id="flowRegion4013"><rect
+             id="rect4015"
+             width="334.46152"
+             height="154"
+             x="70.710678"
+             y="590.5" /></flowRegion><flowPara
+           id="flowPara4017"
+           style="font-size:20px;text-align:center;text-anchor:middle">Manned submersible used to delivery Navy SEALs and their equipment, which can be deployed from surface ship, submarine or helicopter.</flowPara></flowRoot>    </g>
     <g
        inkscape:groupmode="layer"
        inkscape:label="Info_SF_M_3"
        id="g398"
-       style="display:none" />
+       style="display:none">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4001"
+         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(8.000005,10.606602)"><flowRegion
+           id="flowRegion4003"><rect
+             id="rect4005"
+             width="336"
+             height="154"
+             x="80"
+             y="590.5" /></flowRegion><flowPara
+           id="flowPara4007"
+           style="font-size:20px"><flowSpan
+   style="text-align:center;text-anchor:middle"
+   id="flowSpan4009">A special-operations variant of the UH-60 Black Hawk, with improved radar, avionics, weapons and defensive systems, and an </flowSpan>in-flight refuelling probe.</flowPara></flowRoot>    </g>
     <g
        inkscape:groupmode="layer"
        inkscape:label="Info_SF_M_2"
        id="g396"
-       style="display:none" />
+       style="display:none">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3989"
+         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(11.250005,12)"><flowRegion
+           id="flowRegion3991"><rect
+             id="rect3993"
+             width="378.5"
+             height="154"
+             x="55.5"
+             y="590.5" /></flowRegion><flowPara
+           id="flowPara3995"
+           style="font-size:20px;text-align:center;text-anchor:middle">The <flowSpan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle"
+   id="flowSpan3997">Combat Rubber Raiding Craft</flowSpan>, or <flowSpan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle"
+   id="flowSpan3999">Ridged Boat Inflatable Hull</flowSpan>, is often used by Navy SEALs and Marines for inserting small teams onto beaches or onto larger vessels.</flowPara></flowRoot>    </g>
     <g
        inkscape:groupmode="layer"
        inkscape:label="Info_SF_M_1"
        id="g394"
-       style="display:none" />
+       style="display:none">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3981"
+         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(37.85645,7.5502525)"><flowRegion
+           id="flowRegion3983"><rect
+             id="rect3985"
+             width="325.2868"
+             height="147"
+             x="55.5"
+             y="590.5" /></flowRegion><flowPara
+           id="flowPara3987"
+           style="font-size:17.5px;text-align:center;text-anchor:middle">Also known as the Fast Attack Vehicle, this is a high-speed, lightly armored vehicle first used in combat during the Gulf War in 1991; the first US troops in Kuwait City were Navy SEALs in DPVs.</flowPara></flowRoot>    </g>
     <g
        inkscape:groupmode="layer"
        inkscape:label="Info_N_P_4"
        id="g392"
-       style="display:none" />
+       style="display:none">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3973"
+         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(9.9267628,23.75)"><flowRegion
+           id="flowRegion3975"><rect
+             id="rect3977"
+             width="337.99704"
+             height="117.23045"
+             x="77.074638"
+             y="590.5" /></flowRegion><flowPara
+           id="flowPara3979"
+           style="font-size:20px;text-align:center;text-anchor:middle">A typical nuclear-powered submarine has a crew of over 80, who may spend long periods in isolation to avoid detection.</flowPara></flowRoot>    </g>
     <g
        inkscape:groupmode="layer"
        inkscape:label="Info_N_P_3"
        id="g390"
-       style="display:none" />
+       style="display:none">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3961"
+         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(17.500005,10)"><flowRegion
+           id="flowRegion3963"><rect
+             id="rect3965"
+             width="366"
+             height="154"
+             x="55.5"
+             y="590.5" /></flowRegion><flowPara
+           id="flowPara3967"
+           style="font-size:20px;text-align:center;text-anchor:middle">The deck crew of an aircraft carrier are responsible for launching and recovering aircraft.  Each crew member wears a colored jersey to distinguish his function.</flowPara></flowRoot>    </g>
     <g
        inkscape:groupmode="layer"
        inkscape:label="Info_N_P_2"
        id="g388"
-       style="display:none" />
+       style="display:none">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3943"
+         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(-10.749995,20.515612)"><flowRegion
+           id="flowRegion3945"><rect
+             id="rect3947"
+             width="379.5"
+             height="154"
+             x="77"
+             y="590.5" /></flowRegion><flowPara
+           id="flowPara3949"
+           style="font-size:20px"><flowSpan
+   style="text-align:center;text-anchor:middle"
+   id="flowSpan3951">Vice Chief of Naval Operations, former Deputy Chief of Naval Operations for Manpower, Personnel, Training </flowSpan>and Education.</flowPara></flowRoot>    </g>
     <g
        inkscape:groupmode="layer"
        inkscape:label="Info_N_P_1"
        id="g386"
-       style="display:none" />
+       style="display:none">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3935"
+         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(16.291021,14.495689)"><flowRegion
+           id="flowRegion3937"><rect
+             id="rect3939"
+             width="329.51175"
+             height="154"
+             x="74.953316"
+             y="590.5" /></flowRegion><flowPara
+           id="flowPara3941"
+           style="font-size:20px;text-align:center;text-anchor:middle">31st Chief of Naval Operations, former Director of the Naval Nuclear Propulsion Program, with a career mostly spent on submarines.</flowPara></flowRoot>    </g>
     <g
        inkscape:groupmode="layer"
        inkscape:label="Info_N_M_4"
        id="g384"
-       style="display:none" />
+       style="display:none">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3923"
+         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(1.0878956,13.435029)"><flowRegion
+           id="flowRegion3925"><rect
+             id="rect3927"
+             width="357.08893"
+             height="154"
+             x="76.367531"
+             y="590.5" /></flowRegion><flowPara
+           id="flowPara3929"
+           style="font-size:20px"><flowSpan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle"
+   id="flowSpan3931">Los Angeles</flowSpan><flowSpan
+   style="text-align:center;text-anchor:middle"
+   id="flowSpan3933">-class nuclear-powered attack submarine equipped with torpedos, cruise missiles and anti-surface ship missiles.  It was in service </flowSpan>from 1983 to 2015.</flowPara></flowRoot>    </g>
     <g
        inkscape:groupmode="layer"
        inkscape:label="Info_N_M_3"
        id="g382"
-       style="display:none" />
+       style="display:none">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3913"
+         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(3.2099659,12.727922)"><flowRegion
+           id="flowRegion3915"><rect
+             id="rect3917"
+             width="348.60364"
+             height="154"
+             x="78.488853"
+             y="590.5" /></flowRegion><flowPara
+           id="flowPara3919"
+           style="font-size:20px"><flowSpan
+   style="text-align:center;text-anchor:middle"
+   id="flowSpan3921">Stealthy guided missile destroyer with a radar cross-section of a fishing boat.  Armed with missiles, two ain guns and close-range 30 mm </flowSpan>cannons.</flowPara></flowRoot>    </g>
     <g
        inkscape:groupmode="layer"
        inkscape:label="Info_N_M_2"
        id="g380"
-       style="display:none" />
+       style="display:none">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3873"
+         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(8.7421925,23)"><flowRegion
+           id="flowRegion3875"><rect
+             id="rect3877"
+             width="326.51471"
+             height="115.10912"
+             x="84"
+             y="590.5" /></flowRegion><flowPara
+           id="flowPara3879"
+           style="font-size:20px;text-align:center;text-anchor:middle"><flowSpan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+   id="flowSpan3881">Arleigh Burke</flowSpan>-class destroyer named after British Prime Minister Winston S. Churchill, part of Carrier Strike Group 12.</flowPara></flowRoot>    </g>
     <g
        inkscape:groupmode="layer"
        inkscape:label="Info_N_M_1"
        id="g378"
-       style="display:none" />
+       style="display:none">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3865"
+         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(1.000005,12.020815)"><flowRegion
+           id="flowRegion3867"><rect
+             id="rect3869"
+             width="348"
+             height="154"
+             x="81"
+             y="590.5" /></flowRegion><flowPara
+           id="flowPara3871"
+           style="font-size:20px;text-align:center;text-anchor:middle"><flowSpan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+   id="flowSpan3883">Nimitz</flowSpan>-class nuclear-powered supercarrier commissioned in 1992.  She can carry 90 fixed- and rotary-wing aircraft, and can accommodate 6,250 crew.</flowPara></flowRoot>    </g>
     <g
        inkscape:groupmode="layer"
        inkscape:label="Info_AF_P_4"
        id="g376"
-       style="display:none" />
+       style="display:none">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3817"
+         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+           id="flowRegion3819"><rect
+             id="rect3821"
+             width="401"
+             height="154"
+             x="55.5"
+             y="590.5" /></flowRegion><flowPara
+           id="flowPara3823"
+           style="font-size:20px;text-align:center;text-anchor:middle" /></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3825"
+         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(14,-4.5)"><flowRegion
+           id="flowRegion3827"><rect
+             id="rect3829"
+             width="383.668"
+             height="112.0843"
+             x="72.832001"
+             y="606.25275"
+             style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+           id="flowPara3831"
+           style="font-size:20px" /></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3841"
+         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+           id="flowRegion3843"><rect
+             id="rect3845"
+             width="369"
+             height="122.5"
+             x="93"
+             y="622" /></flowRegion><flowPara
+           id="flowPara3847"
+           style="font-size:20px;text-align:center;text-anchor:middle" /></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3849"
+         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+           id="flowRegion3851"><rect
+             id="rect3853"
+             width="372.00864"
+             height="111.57359"
+             x="55.5"
+             y="590.5" /></flowRegion><flowPara
+           id="flowPara3855"
+           style="font-size:20px;text-align:center;text-anchor:middle" /></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3857"
+         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(27.958013,12.5)"><flowRegion
+           id="flowRegion3859"><rect
+             id="rect3861"
+             width="303.34882"
+             height="154"
+             x="76.367531"
+             y="590.5" /></flowRegion><flowPara
+           id="flowPara3863"
+           style="font-size:20px;text-align:center;text-anchor:middle">The F-16 is the most common fixed-wing military aircraft in the world.  Over 277 pilots have reached over 3,000 hours in the F-16.</flowPara></flowRoot>    </g>
     <g
        inkscape:groupmode="layer"
        inkscape:label="Info_AF_P_3"
        id="g374"
-       style="display:none" />
+       style="display:none">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3801"
+         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(-14.142136,9.8994949)"><flowRegion
+           id="flowRegion3803"><rect
+             id="rect3805"
+             width="337.70605"
+             height="113.69492"
+             x="87.681244"
+             y="590.5"
+             style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+           id="flowPara3807" /></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3809"
+         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(18.058599,-1.25)"><flowRegion
+           id="flowRegion3811"><rect
+             id="rect3813"
+             width="303.34882"
+             height="115.96552"
+             x="86.267029"
+             y="609.78827"
+             style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+           id="flowPara3815"
+           style="font-size:20px" /></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3905"
+         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(-26.343745,19.79899)"><flowRegion
+           id="flowRegion3907"><rect
+             id="rect3909"
+             width="390.73907"
+             height="81.678719"
+             x="86.974136"
+             y="604.8385"
+             style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+           id="flowPara3911"
+           style="font-size:20px">The F-35 includes a helmet-mounted display system that simplifies decision making and target acquisition.</flowPara></flowRoot>    </g>
     <g
        inkscape:groupmode="layer"
        inkscape:label="Info_AF_P_2"
        id="g372"
-       style="display:none" />
+       style="display:none">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3793"
+         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(15.411138,12.020815)"><flowRegion
+           id="flowRegion3795"><rect
+             id="rect3797"
+             width="370.17828"
+             height="129.95837"
+             x="55.5"
+             y="590.5"
+             style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+           id="flowPara3799"
+           style="font-size:20px;text-align:center;text-anchor:middle">Vice Chief of Staff of the Air Force, former commander of Air Force Global Strike Command responsible for maintaining all U.S. ICBM and nuclear-capable bomber forces.</flowPara></flowRoot>    </g>
     <g
        inkscape:groupmode="layer"
        inkscape:label="Info_AF_P_1"
        id="g370"
-       style="display:none" />
+       style="display:none">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3785"
+         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(-7.2519481,16)"><flowRegion
+           id="flowRegion3787"><rect
+             id="rect3789"
+             width="386.49643"
+             height="154"
+             x="70.003571"
+             y="590.5"
+             style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+           id="flowPara3791">Air Force Chief of Staff, former pilot with more than 4,200 flying hours in the T-37, T-38, F-16C/D, F-117A, MC-12W, and MQ-9.</flowPara></flowRoot>    </g>
     <g
        inkscape:groupmode="layer"
        inkscape:label="Info_AF_M_4"
        id="g368"
-       style="display:none" />
+       style="display:none">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3777"
+         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(17.500005,13)"><flowRegion
+           id="flowRegion3779"><rect
+             id="rect3781"
+             width="319"
+             height="154"
+             x="79"
+             y="590.5" /></flowRegion><flowPara
+           id="flowPara3783"
+           style="font-size:20px;text-align:center;text-anchor:middle">Heavy penetration strategic bomber, featuring low observable stealth technology designed for penetrating dense anti-aircraft defenses.</flowPara></flowRoot>    </g>
     <g
        inkscape:groupmode="layer"
        inkscape:label="Info_AF_M_3"
        id="g366"
-       style="display:none" />
+       style="display:none">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="148"
+         y="635"
+         id="text3765"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3767"
+           x="148"
+           y="635"></tspan></text>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3769"
+         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(-2.8007762,18.75)"><flowRegion
+           id="flowRegion3771"><rect
+             id="rect3773"
+             width="333.75439"
+             height="126.42284"
+             x="91.923882"
+             y="590.5"
+             style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+           id="flowPara3775">Nuclear-capable, long-range, subsonic, jet-powered strategic bomber in active service since 1955.</flowPara></flowRoot>    </g>
     <g
        inkscape:groupmode="layer"
        inkscape:label="Info_AF_M_2"
        id="g364"
-       style="display:none" />
+       style="display:none">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3755"
+         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(8.8662159,11.31066)"><flowRegion
+           id="flowRegion3757"><rect
+             id="rect3759"
+             width="313.24832"
+             height="133.13249"
+             x="90.509666"
+             y="590.5" /></flowRegion><flowPara
+           id="flowPara3761"
+           style="font-size:20px"><flowSpan
+   style="text-align:center;text-anchor:middle"
+   id="flowSpan3763">Fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft, designed primarily as an air </flowSpan>superiority fighter</flowPara></flowRoot>    </g>
     <g
        inkscape:groupmode="layer"
        inkscape:label="Info_AF_M_1"
        id="g362"
-       style="display:none" />
+       style="display:none">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3731"
+         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+           id="flowRegion3733"><rect
+             id="rect3735"
+             width="401"
+             height="154"
+             x="55.5"
+             y="590.5" /></flowRegion><flowPara
+           id="flowPara3737"></flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3739"
+         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(25.914214,-6.4644661)"><flowRegion
+           id="flowRegion3741"><rect
+             id="rect3743"
+             width="369.8873"
+             height="100.77061"
+             x="55.5"
+             y="618.98065"
+             style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+           id="flowPara3745"
+           style="font-size:17.5px;text-align:center;text-anchor:middle" /></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3747"
+         style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(26.750005,10.960155)"><flowRegion
+           id="flowRegion3749"><rect
+             id="rect3751"
+             width="347.5"
+             height="129.5"
+             x="55.5"
+             y="590.5"
+             style="font-size:20px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+           id="flowPara3753">Fifth-generation, single-seat, single-engine, all-weather stealth multirole fighter designed to perform ground attack and air defense missions.</flowPara></flowRoot>    </g>
     <g
        inkscape:groupmode="layer"
        inkscape:label="Info_A_P_4"
        id="g360"
-       style="display:none" />
+       style="display:none">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3723"
+         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(20.89063,18.031223)"><flowRegion
+           id="flowRegion3725"><rect
+             id="rect3727"
+             width="297.68332"
+             height="111"
+             x="86.267029"
+             y="590.5"
+             style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+           id="flowPara3729">Division based in Hawaii, nicknamed &quot;Tropic Lightning&quot; during the Vietnam War.</flowPara></flowRoot>    </g>
     <g
        inkscape:groupmode="layer"
        inkscape:label="Info_A_P_3"
        id="g358"
-       style="display:none" />
+       style="display:none">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3715"
+         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(21.500005,16.5)"><flowRegion
+           id="flowRegion3717"><rect
+             id="rect3719"
+             width="358"
+             height="123"
+             x="55.5"
+             y="590.5"
+             style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+           id="flowPara3721">Combined arms and light infantry division based at Fort Stewart, Georgia, nicknamed the &quot;Marne Division&quot;.</flowPara></flowRoot>    </g>
     <g
        inkscape:groupmode="layer"
        inkscape:label="Info_A_P_2"
        id="g356"
-       style="display:none" />
+       style="display:none">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3707"
+         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(15.000005,18.031223)"><flowRegion
+           id="flowRegion3709"><rect
+             id="rect3711"
+             width="308"
+             height="159.5"
+             x="87"
+             y="590.5"
+             style="font-size:22.5px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+           id="flowPara3713">35th Vice Chief of Staff of the United States Army, former commander of the XVIII Airborne Corps</flowPara></flowRoot>    </g>
     <g
        inkscape:groupmode="layer"
        inkscape:label="Info_A_P_1"
        id="g354"
-       style="display:none" />
+       style="display:none">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3699"
+         style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(0.500005,0.35355339)"><flowRegion
+           id="flowRegion3701"><rect
+             id="rect3703"
+             width="355"
+             height="133.5"
+             x="78"
+             y="611"
+             style="font-size:20px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+           id="flowPara3705">Four-star general, 39th Chief of Staff of the Army, former commanding general of U.S. Army Forces Command.</flowPara></flowRoot>    </g>
     <g
        inkscape:groupmode="layer"
        inkscape:label="Info_A_M_4"
        id="g352"
-       style="display:none" />
+       style="display:none">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3691"
+         style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(0.500005,-0.5)"><flowRegion
+           id="flowRegion3693"><rect
+             id="rect3695"
+             width="357"
+             height="132.5"
+             x="77"
+             y="612"
+             style="font-size:20px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+           id="flowPara3697">Infantry fighting vehicle designed for reconnaissance and maneuverability, able to transport troops and provide fire support.</flowPara></flowRoot>    </g>
     <g
        inkscape:groupmode="layer"
        inkscape:label="Info_A_M_3"
        id="g350"
-       style="display:none" />
+       style="display:none">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3683"
+         style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(24.500005,9.5)"><flowRegion
+           id="flowRegion3685"><rect
+             id="rect3687"
+             width="352"
+             height="154"
+             x="55.5"
+             y="590.5"
+             style="font-size:20px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+           id="flowPara3689">High Mobility Multipurpose Wheeled Vehicle, aka the Humvee, is a general-purpose light truck used for personnel and light cargo transport, and light combat.</flowPara></flowRoot>    </g>
     <g
        inkscape:groupmode="layer"
        inkscape:label="Info_A_M_2"
        id="g348"
-       style="display:none" />
+       style="display:none">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3675"
+         style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(22.000005,9)"><flowRegion
+           id="flowRegion3677"><rect
+             id="rect3679"
+             width="314"
+             height="131"
+             x="77"
+             y="590.5"
+             style="font-size:20px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+           id="flowPara3681">Four-blade, twin-turboshaft attack helicopter, typically carrying Hellfire missiles and rocket pods, with an underslung 30 mm chain gun.</flowPara></flowRoot>    </g>
     <g
        inkscape:groupmode="layer"
        inkscape:label="Info_A_M_1"
        id="g346"
-       style="display:none" />
-  </g>
-  <g
-     inkscape:label="MISC"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-252.36216)"
-     style="display:none">
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4338"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(0,252.36216)"><flowRegion
-         id="flowRegion4340"><rect
-           id="rect4342"
-           width="411.13208"
-           height="178.797"
-           x="49.497475"
-           y="565.64459" /></flowRegion><flowPara
-         id="flowPara4344" /></flowRoot>    <image
-       sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\..\..\Old design\_B2.png"
-       xlink:href="..\..\Old design\_B2.png"
-       width="401"
-       height="389"
-       preserveAspectRatio="none"
-       id="image4374"
-       x="55.5"
-       y="357.86215" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="72.814087"
-       y="881.09332"
-       id="text5089"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5091"
-         x="72.814087"
-         y="881.09332">24-pt text</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="69.878685"
-       y="909.08649"
-       id="text5093"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5095"
-         x="69.878685"
-         y="909.08649">18-pt text</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:16.25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="70.55426"
-       y="930.98956"
-       id="text5097"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5099"
-         x="70.55426"
-         y="930.98956">13-pt text</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="71.039543"
-       y="948.94794"
-       id="text5101"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5103"
-         x="71.039543"
-         y="948.94794">10-pt text</tspan></text>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4216"
-       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(0,252.36216)"><flowRegion
-         id="flowRegion4218"><rect
-           id="rect4220"
-           width="412"
-           height="57.5"
-           x="50"
-           y="31" /></flowRegion><flowPara
-         id="flowPara4222" /></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4387"
-       style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
-         id="flowRegion4389"><rect
-           id="rect4391"
-           width="176"
-           height="106"
-           x="-338"
-           y="294" /></flowRegion><flowPara
-         id="flowPara4393" /></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4540"
-       style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
-         id="flowRegion4542"><rect
-           id="rect4544"
-           width="352.5"
-           height="47.914223"
-           x="104"
-           y="696.58575" /></flowRegion><flowPara
-         id="flowPara4546" /></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="353.99997"
-       y="975.36218"
-       id="text4548"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4550"
-         x="353.99997"
-         y="975.36218"
-         style="font-size:10px">Image © US DOD</tspan></text>
+       style="display:inline">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3665"
+         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(-557.66894,366.51472)"><flowRegion
+           id="flowRegion3667"><rect
+             id="rect3669"
+             width="351.33713"
+             height="128.96449"
+             x="638"
+             y="237"
+             style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+           id="flowPara3671"
+           style="font-size:20px;text-align:center;text-anchor:middle">Main battle tank, developed during the Cold War but saw first action during the 1991 Gulf War in which nine were destroyed - none by enemy action.</flowPara></flowRoot>    </g>
   </g>
 </svg>
