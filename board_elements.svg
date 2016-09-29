@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="472"
+   height="760"
+   viewBox="0 0 472 760.00001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="board_elements.svg"
+   inkscape:export-filename="C:\Users\Charlie\Desktop\Muster\git\Muster\generated\element_tile_blank.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4244">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 20,20 492,20 20,292.50933 Z"
+         id="path4246"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4250">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 20,292.50933 492,20 492,263.74533 20,536.25466 Z"
+         id="path4252"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4256">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 20,536.25466 492,263.74533 492,507.49067 20,780"
+         id="path4258"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4262">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 20,780 492,507.49067 492,780"
+         id="path4264"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="111.34709"
+     inkscape:cy="390.3511"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer11"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="50,0"
+       orientation="1,0"
+       id="guide4214"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,50.000001"
+       orientation="0,1"
+       id="guide4216"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,710.00001"
+       orientation="0,1"
+       id="guide4218"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="422,0"
+       orientation="1,0"
+       id="guide4220"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="236,0"
+       orientation="1,0"
+       id="guide4285"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Background"
+     style="display:inline">
+    <g
+       inkscape:groupmode="layer"
+       id="layer6"
+       inkscape:label="Background_SF"
+       style="display:none">
+      <image
+         sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\backgrounds\sf_bg.png"
+         xlink:href="backgrounds\sf_bg.png"
+         width="472"
+         height="760"
+         preserveAspectRatio="none"
+         id="image4177"
+         x="0"
+         y="292.36218"
+         transform="translate(0,-292.36216)" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer4"
+       inkscape:label="Background_N"
+       style="display:none">
+      <image
+         sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\backgrounds\n_bg.png"
+         xlink:href="backgrounds\n_bg.png"
+         width="472"
+         height="760"
+         preserveAspectRatio="none"
+         id="image4166"
+         x="0"
+         y="292.36218"
+         transform="translate(0,-292.36216)" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer5"
+       inkscape:label="Background_AF"
+       style="display:none">
+      <image
+         sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\backgrounds\af_bg.png"
+         xlink:href="backgrounds\af_bg.png"
+         width="472"
+         height="760"
+         preserveAspectRatio="none"
+         id="image4155"
+         x="0"
+         y="292.36218"
+         transform="translate(0,-292.36216)" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="Background_A"
+       style="display:inline">
+      <image
+         sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\backgrounds\a_bg.png"
+         xlink:href="backgrounds\a_bg.png"
+         width="472"
+         height="760"
+         preserveAspectRatio="none"
+         id="image4144"
+         x="0"
+         y="292.36221"
+         transform="translate(0,-292.36216)" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer8"
+       inkscape:label="Background_4"
+       style="display:none">
+      <image
+         sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\backgrounds\a_bg.png"
+         xlink:href="backgrounds\a_bg.png"
+         transform="translate(-20,-20)"
+         clip-path="url(#clipPath4244)"
+         width="472"
+         height="760"
+         preserveAspectRatio="none"
+         id="image4730"
+         x="20"
+         y="20"
+         style="display:inline" />
+      <image
+         sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\backgrounds\af_bg.png"
+         xlink:href="backgrounds\af_bg.png"
+         transform="translate(-20,-20)"
+         clip-path="url(#clipPath4250)"
+         y="20"
+         x="20"
+         id="image4895"
+         preserveAspectRatio="none"
+         height="760"
+         width="472"
+         style="display:inline" />
+      <image
+         sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\backgrounds\n_bg.png"
+         xlink:href="backgrounds\n_bg.png"
+         transform="translate(-20,-20)"
+         clip-path="url(#clipPath4256)"
+         y="20"
+         x="20"
+         id="image3753"
+         preserveAspectRatio="none"
+         height="760"
+         width="472"
+         style="display:inline" />
+      <image
+         sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\backgrounds\sf_bg.png"
+         xlink:href="backgrounds\sf_bg.png"
+         transform="translate(-20,-20)"
+         clip-path="url(#clipPath4262)"
+         width="472"
+         height="760"
+         preserveAspectRatio="none"
+         id="image3864"
+         x="20"
+         y="20"
+         style="display:inline" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer9"
+       inkscape:label="Background_OOA"
+       style="display:none">
+      <rect
+         style="opacity:1;fill:#646464;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4269"
+         width="472"
+         height="760"
+         x="0"
+         y="1.5258789e-005" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer10"
+       inkscape:label="Background_T"
+       style="display:none">
+      <image
+         sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\images\elem_t.png"
+         xlink:href="images\elem_t.png"
+         width="472"
+         height="760"
+         preserveAspectRatio="none"
+         id="image4308"
+         x="0"
+         y="0" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer11"
+       inkscape:label="Background_MA"
+       style="display:none">
+      <image
+         sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\images\elem_ma.png"
+         xlink:href="images\elem_ma.png"
+         width="472"
+         height="760"
+         preserveAspectRatio="none"
+         id="image4320"
+         x="0"
+         y="0" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Inset Frame"
+     style="display:inline">
+    <g
+       id="g4277">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4271"
+         d="m 422,50 -5,5 0,650 5,5 z"
+         style="display:inline;fill:#000000;fill-opacity:0.39215686;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1" />
+      <rect
+         y="55"
+         x="55"
+         height="650"
+         width="362"
+         id="rect4227"
+         style="opacity:1;fill:#ffffff;fill-opacity:0.78431374;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4269"
+         d="m 50,50 5,5 362,0 5,-5 z"
+         style="display:inline;fill:#ffffff;fill-opacity:0.39215686;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4267"
+         d="m 50,710 0,-660 5,5 0,650 z"
+         style="display:inline;fill:#ffffff;fill-opacity:0.39215686;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4273"
+         d="m 50,710 5,-5 362,0 5,5 z"
+         style="display:inline;fill:#000000;fill-opacity:0.39215686;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect5079"
+         d="m 50,50 372,0 0,660 -372,0 z"
+         style="display:inline;opacity:1;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:2.00980568;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
