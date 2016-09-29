@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="800"
+   viewBox="0 0 511.99999 800.00001"
+   id="svg4630"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="wild_card.svg"
+   inkscape:export-filename="C:\Users\Charlie\Desktop\Muster\git\Muster\wild_card.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4632">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4657">
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0"
+         id="stop4659" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1"
+         id="stop4661" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="Card_BG">
+      <stop
+         style="stop-color:#fafaf0;stop-opacity:1"
+         offset="0"
+         id="stop5552" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop5554" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Card_BG"
+       id="linearGradient5556"
+       x1="176.77649"
+       y1="453.36212"
+       x2="329.16263"
+       y2="774.59064"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4657"
+       id="radialGradient4663"
+       cx="256"
+       cy="400"
+       fx="256"
+       fy="400"
+       r="236"
+       gradientTransform="matrix(1,7.5963817e-8,-8.5308242e-8,1.2478813,3.4090227e-5,-99.152559)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="-134.64145"
+     inkscape:cy="388.76394"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer8"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-page="true"
+     inkscape:snap-bbox="false"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="false"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-text-baseline="true">
+    <sodipodi:guide
+       position="20,0"
+       orientation="1,0"
+       id="guide4350"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,780.00001"
+       orientation="0,1"
+       id="guide4352"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,20"
+       orientation="0,1"
+       id="guide4354"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="491.99999,0"
+       orientation="1,0"
+       id="guide4356"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,215"
+       orientation="0,1"
+       id="guide4385"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,209.5"
+       orientation="0,1"
+       id="guide4389"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,700.00001"
+       orientation="0,1"
+       id="guide4391"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,300"
+       orientation="0,1"
+       id="guide4393"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="49.999999,0"
+       orientation="1,0"
+       id="guide4395"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="461.99999,0"
+       orientation="1,0"
+       id="guide4397"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,50.000001"
+       orientation="0,1"
+       id="guide5081"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="55.499999,0"
+       orientation="1,0"
+       id="guide4281"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,694.50001"
+       orientation="0,1"
+       id="guide4283"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,305.5"
+       orientation="0,1"
+       id="guide4285"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="456.49999,0"
+       orientation="1,0"
+       id="guide4287"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,55.500001"
+       orientation="0,1"
+       id="guide4348"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,720.00001"
+       orientation="0,1"
+       id="guide4365"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-40.999999,110"
+       orientation="0,1"
+       id="guide4367"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-41.499999,69.500001"
+       orientation="0,1"
+       id="guide4369"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="256,0"
+       orientation="1,0"
+       id="guide3669"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4635">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Base Card"
+     style="display:inline">
+    <rect
+       transform="translate(0,-252.36216)"
+       style="display:inline;opacity:1;fill:url(#linearGradient5556);fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4638"
+       width="510.00641"
+       height="798.00641"
+       x="0.99680686"
+       y="253.35898"
+       ry="19.950159" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Background"
+     style="display:inline">
+    <g
+       style="display:inline"
+       inkscape:label="Background_SF"
+       id="g4244"
+       inkscape:groupmode="layer">
+      <image
+         sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\backgrounds\sf_bg.png"
+         xlink:href="backgrounds\sf_bg.png"
+         width="236"
+         height="380"
+         preserveAspectRatio="none"
+         id="image3864"
+         x="256"
+         y="400" />
+    </g>
+    <g
+       style="display:inline"
+       inkscape:label="Background_N"
+       id="g4194"
+       inkscape:groupmode="layer">
+      <image
+         sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\backgrounds\n_bg.png"
+         xlink:href="backgrounds\n_bg.png"
+         y="400"
+         x="20"
+         id="image3753"
+         preserveAspectRatio="none"
+         height="380"
+         width="236" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="Background_AF"
+       style="display:inline">
+      <image
+         sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\backgrounds\af_bg.png"
+         xlink:href="backgrounds\af_bg.png"
+         y="20"
+         x="256"
+         id="image4895"
+         preserveAspectRatio="none"
+         height="380"
+         width="236" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g4224"
+       inkscape:label="Background_A"
+       style="display:inline">
+      <image
+         sodipodi:absref="C:\Users\Charlie\Desktop\Muster\git\Muster\backgrounds\a_bg.png"
+         xlink:href="backgrounds\a_bg.png"
+         width="236"
+         height="380"
+         preserveAspectRatio="none"
+         id="image4730"
+         x="20"
+         y="20.000006" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Fixed Text"
+     style="display:inline">
+    <text
+       sodipodi:linespacing="125%"
+       id="text4358"
+       y="690"
+       x="55.5"
+       style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:30px;fill:#ffffff;fill-opacity:1"
+         y="690"
+         x="55.5"
+         id="tspan4360"
+         sodipodi:role="line">Force:</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4362"
+       y="730.50226"
+       x="55.499828"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="scale(1.0000031,0.99999692)"><tspan
+         style="font-size:30px;fill:#ffffff;fill-opacity:1"
+         y="730.50226"
+         x="55.499828"
+         id="tspan4364"
+         sodipodi:role="line">Type:</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Force_Any"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="456.5"
+       y="690"
+       id="text4395"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4397"
+         x="456.5"
+         y="690"
+         style="font-size:30px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1">Any</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer14"
+     inkscape:label="Type_Any"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="456.5"
+       y="730.5"
+       id="text4152"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4154"
+         x="456.5"
+         y="730.5"
+         style="font-size:30px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1">Any</tspan></text>
+    <ellipse
+       style="opacity:1;fill:url(#radialGradient4663);fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4655"
+       cx="256"
+       cy="400"
+       rx="236"
+       ry="380" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3845"
+       style="font-style:normal;font-weight:normal;font-size:100px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-2.999995,35.414214)"><flowRegion
+         id="flowRegion3847"><rect
+           id="rect3849"
+           width="332"
+           height="290"
+           x="93"
+           y="233"
+           style="font-size:100px" /></flowRegion><flowPara
+         id="flowPara3851"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">WILD</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         id="flowPara4653">CARD</flowPara></flowRoot>  </g>
+</svg>
